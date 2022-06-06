@@ -14,5 +14,8 @@ class LoginController extends Controller
        ]);
       
     }
+    public function delete(){
+       echo "ok";
+    }
    
 }
